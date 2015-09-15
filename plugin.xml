@@ -24,7 +24,6 @@
     </engines>
 
     <!-- dependencies -->
-    <dependency id="org.apache.cordova.device" />
 
     <!-- info -->
     <info>
